@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticalWork</string>
+    <string-array name="condition">
+        <item>1 star</item>
+        <item>2 star</item>
+        <item>3 star</item>
+        <item>4 star</item>
+        <item>5 star</item>
+    </string-array>
+</resources>
